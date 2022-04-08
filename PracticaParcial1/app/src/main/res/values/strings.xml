@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticaParcial1</string>
+    <string name="team_a_text_view">Team A</string>
+    <string name="team_b_text_view">Team B</string>
+    <string name="save_button">Guardar</string>
+    <string name="action_one_point">+1 punto</string>
+    <string name="action_two_points">+2 puntos</string>
+    <string name="action_three_points">+3 puntos</string>
+</resources>

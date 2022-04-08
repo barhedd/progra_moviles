@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">01FormularioBasico</string>
+    <string name="text_name">Name</string>
+    <string name="hint_name">Eddy Barahona</string>
+    <string name="action_greet">Greeting</string>
+    <string name="helper_greeting">Write your name</string>
+    <string name="template_greeting">Hello %s, welcome to mobile development</string>
+</resources>

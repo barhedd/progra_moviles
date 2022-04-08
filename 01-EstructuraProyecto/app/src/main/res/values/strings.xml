@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EstructuraProyecto</string>
+    <string name="gretting_next">Hello Next!</string>
+    <string name="content_text">Mi primera aplicacion</string>
+</resources>
